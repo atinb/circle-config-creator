@@ -28,7 +28,7 @@
     >
   </a>
 </p>
-
+  
 ## Overview
 
 I noticed that a lot of my CircleCI config was repetitive. I had written a small
